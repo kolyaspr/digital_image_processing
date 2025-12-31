@@ -15,7 +15,7 @@
 | 9   | +++ | [Проектная работа №4. Анализ динамики изменений земного покрова на последовательности разновременных спутниковых смимков с использованием спектральных индексов](https://colab.research.google.com/drive/1uvQv58urCeIfwMZgbxwzwuk5pgL5tHjm?usp=sharing) |
 | 10  | +++ | [Практическая работа №5. Эффективная обработка растровых и векторных данных в Xarray и Rioxarray](https://colab.research.google.com/drive/1wd8fWg7CHlWkB33n6_g1dkPcYhiY9c8g?usp=sharing) |
 | 11  | +++ | [Проектная работа №5. Анализ и сравнение детекторов ключевых точек и дескрипторов в OpenCV](https://colab.research.google.com/drive/1TJHSLMu47bGBikM9qoH3bMvbjFD5mAb0?usp=sharing) |
-| 12  |     | [Проектная работа №6. Часть №1. Система мониторинга дисциплины на занятиях](https://colab.research.google.com/drive/1rXRMDO7rQehVrtFAbcwO5m3qyq_seuGb?usp=sharing) |
-| 13  |     | [Проектная работа №6. Часть №2. Графический интерфейс системы мониторинга дисциплины на Streamlit](https://colab.research.google.com/drive/1WR-hSIW059SrIRID2MOkpe2An7U1HfFb?usp=sharing) |
+| 12  | +++  | [Проектная работа №6. Часть №1. Система мониторинга дисциплины на занятиях](https://colab.research.google.com/drive/1rXRMDO7rQehVrtFAbcwO5m3qyq_seuGb?usp=sharing) |
+| 13  | +++  | [Проектная работа №6. Часть №2. Графический интерфейс системы мониторинга дисциплины на Streamlit](https://colab.research.google.com/drive/1WR-hSIW059SrIRID2MOkpe2An7U1HfFb?usp=sharing) |
 
-Зачет                      Оценка:
+Зачет: 30.12.25     Оценка: 3
